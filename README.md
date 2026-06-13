@@ -133,5 +133,5 @@ Además del desarrollo, manejo herramientas de diseño para prototipado y materi
 ---
 
 <div></div>
-**¿Quieres progresar de manera rapida y constante?.CONTACTAME**
+¿Quieres progresar de manera rapida y constante?.CONTACTAME
 </div>
