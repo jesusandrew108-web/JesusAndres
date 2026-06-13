@@ -134,6 +134,4 @@ Además del desarrollo, manejo herramientas de diseño para prototipado y materi
 
 <div></div>
 **¿Quieres progresar de manera rapida y constante?.CONTACTAME**
-[![Email](https://img.shields.io/badge/Contactar-jesusandrew108@gmail.com-0078D4?style=flat&logo=gmail&logoColor=white)](mailto:jesusandrew108@gmail.com)
-
 </div>
