@@ -8,6 +8,7 @@
 
 [![Email](https://img.shields.io/badge/Email-jesusandrew108@gmail.com-0078D4?style=flat&logo=gmail&logoColor=white)](mailto:jesusandrew108@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-4281066454-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/524281066454)
+[![GitHub](https://img.shields.io/badge/GitHub-jesusandrew108--web-181717?style=flat&logo=github&logoColor=white)](https://github.com/jesusandrew108-web/JesusAndres)
 [![Credly](https://img.shields.io/badge/Certificaciones-Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/jesus-gonzalez)
 
 </div>
@@ -36,6 +37,7 @@ Me caracterizo por orientarme a resultados medibles, resolver problemas con rapi
 
 ### Frameworks y librerías
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
@@ -68,6 +70,17 @@ Me caracterizo por orientarme a resultados medibles, resolver problemas con rapi
 ---
 
 ## 🚀 Proyectos destacados
+
+### 📱 App Flutter — Aplicación Móvil
+`Desarrollo móvil · Flutter`
+
+[![Ver repositorio](https://img.shields.io/badge/Repositorio-AppFlutter-181717?style=flat&logo=github&logoColor=white)](https://github.com/jesusandrew108-web/AppFlutter)
+
+Aplicación móvil desarrollada con **Flutter**, el framework de Google para desarrollo multiplataforma (iOS y Android desde un solo código base).
+
+**Stack:** Flutter · Dart · Android Studio · VS Code
+
+---
 
 ### 🔒 Plataforma Web Segura
 `Proyecto académico de ciberseguridad · 2024–2025`
@@ -119,9 +132,8 @@ Además del desarrollo, manejo herramientas de diseño para prototipado y materi
 
 ---
 
-<div align="center">
-
-**Listos para alcanzar nuevas metas y progreso en el mundo del desarrollo. CONTACTAME.**
+<div></div>
+**¿Quieres progresar de manera rapida y constante?.CONTACTAME**
 [![Email](https://img.shields.io/badge/Contactar-jesusandrew108@gmail.com-0078D4?style=flat&logo=gmail&logoColor=white)](mailto:jesusandrew108@gmail.com)
 
 </div>
